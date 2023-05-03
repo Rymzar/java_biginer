@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jrm-java-task26" />
         <module name="jrm-java-task27" />
+        <module name="jrm-java-task49" />
         <module name="jrm-java-task28" />
         <module name="jrm-java-task29" />
         <module name="jrm-java-task45" />
@@ -70,6 +71,7 @@
       <module name="jrm-java-task42" target="1.8" />
       <module name="jrm-java-task43" target="1.8" />
       <module name="jrm-java-task45" target="1.8" />
+      <module name="jrm-java-task49" target="1.8" />
       <module name="jrm-java-task5" target="1.8" />
       <module name="jrm-java-task6" target="1.8" />
       <module name="jrm-java-task8" target="1.8" />
