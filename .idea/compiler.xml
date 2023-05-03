@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jrm-java-task26" />
+        <module name="jrm-java-task27" />
+        <module name="jrm-java-task28" />
+        <module name="jrm-java-task29" />
+        <module name="jrm-java-task25" />
+        <module name="jrm-java-task20" />
+        <module name="jrm-java-task42" />
+        <module name="jrm-java-task21" />
+        <module name="jrm-java-task43" />
+        <module name="jrm-java-task19" />
+        <module name="jrm-java-task8" />
+        <module name="jrm-java-task5" />
+        <module name="jrm-java-task15" />
+        <module name="jrm-java-task4" />
+        <module name="jrm-java-task16" />
+        <module name="jrm-java-task17" />
+        <module name="jrm-java-task6" />
+        <module name="jrm-java-task18" />
+        <module name="jrm-java-task11" />
+        <module name="jrm-java-task33" />
+        <module name="jrm-java-task12" />
+        <module name="jrm-java-task34" />
+        <module name="jrm-java-task13" />
+        <module name="jrm-java-task35" />
+        <module name="jrm-java-task2" />
+        <module name="jrm-java-task14" />
+        <module name="jrm-java-task36" />
+        <module name="jrm-java-task30" />
+        <module name="jrm-java-task31" />
+        <module name="jrm-java-task10" />
+        <module name="jrm-java-task32" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jrm-java-task10" target="1.8" />
+      <module name="jrm-java-task11" target="1.8" />
+      <module name="jrm-java-task12" target="1.8" />
+      <module name="jrm-java-task13" target="1.8" />
+      <module name="jrm-java-task14" target="1.8" />
+      <module name="jrm-java-task15" target="1.8" />
+      <module name="jrm-java-task16" target="1.8" />
+      <module name="jrm-java-task17" target="1.8" />
+      <module name="jrm-java-task18" target="1.8" />
+      <module name="jrm-java-task19" target="1.8" />
+      <module name="jrm-java-task2" target="1.8" />
+      <module name="jrm-java-task20" target="1.8" />
+      <module name="jrm-java-task21" target="1.8" />
+      <module name="jrm-java-task25" target="1.8" />
+      <module name="jrm-java-task26" target="1.8" />
+      <module name="jrm-java-task27" target="1.8" />
+      <module name="jrm-java-task28" target="1.8" />
+      <module name="jrm-java-task29" target="1.8" />
+      <module name="jrm-java-task30" target="1.8" />
+      <module name="jrm-java-task31" target="1.8" />
+      <module name="jrm-java-task32" target="1.8" />
+      <module name="jrm-java-task33" target="1.8" />
+      <module name="jrm-java-task34" target="1.8" />
+      <module name="jrm-java-task35" target="1.8" />
+      <module name="jrm-java-task36" target="1.8" />
+      <module name="jrm-java-task4" target="1.8" />
+      <module name="jrm-java-task42" target="1.8" />
+      <module name="jrm-java-task43" target="1.8" />
+      <module name="jrm-java-task5" target="1.8" />
+      <module name="jrm-java-task6" target="1.8" />
+      <module name="jrm-java-task8" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

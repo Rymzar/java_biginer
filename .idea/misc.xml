@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jrm-java-task2/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task4/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task5/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task6/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task8/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task10/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task11/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task12/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task13/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task14/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task15/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task16/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task17/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task18/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task19/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task20/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task21/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task25/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task26/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task27/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task28/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task29/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task30/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task31/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task32/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task33/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task34/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task35/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task36/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task42/pom.xml" />
+        <option value="$PROJECT_DIR$/jrm-java-task43/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
