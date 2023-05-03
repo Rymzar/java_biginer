@@ -39,6 +39,7 @@
         <module name="jrm-java-task31" />
         <module name="jrm-java-task10" />
         <module name="jrm-java-task32" />
+        <module name="jrm-java-task50" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -73,6 +74,7 @@
       <module name="jrm-java-task45" target="1.8" />
       <module name="jrm-java-task49" target="1.8" />
       <module name="jrm-java-task5" target="1.8" />
+      <module name="jrm-java-task50" target="1.8" />
       <module name="jrm-java-task6" target="1.8" />
       <module name="jrm-java-task8" target="1.8" />
     </bytecodeTargetLevel>
