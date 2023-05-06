@@ -36,7 +36,9 @@
         <module name="jrm-java-task14" />
         <module name="jrm-java-task36" />
         <module name="jrm-java-task30" />
+        <module name="jrm-java-task52" />
         <module name="jrm-java-task31" />
+        <module name="jrm-java-task53" />
         <module name="jrm-java-task10" />
         <module name="jrm-java-task32" />
         <module name="jrm-java-task50" />
@@ -75,6 +77,8 @@
       <module name="jrm-java-task49" target="1.8" />
       <module name="jrm-java-task5" target="1.8" />
       <module name="jrm-java-task50" target="1.8" />
+      <module name="jrm-java-task52" target="1.8" />
+      <module name="jrm-java-task53" target="1.8" />
       <module name="jrm-java-task6" target="1.8" />
       <module name="jrm-java-task8" target="1.8" />
     </bytecodeTargetLevel>
