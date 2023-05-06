@@ -15,6 +15,7 @@
         <module name="jrm-java-task67" />
         <module name="jrm-java-task68" />
         <module name="jrm-java-task25" />
+        <module name="jrm-java-task69" />
         <module name="jrm-java-task20" />
         <module name="jrm-java-task42" />
         <module name="jrm-java-task21" />
@@ -92,6 +93,7 @@
       <module name="jrm-java-task6" target="1.8" />
       <module name="jrm-java-task67" target="1.8" />
       <module name="jrm-java-task68" target="1.8" />
+      <module name="jrm-java-task69" target="1.8" />
       <module name="jrm-java-task8" target="1.8" />
     </bytecodeTargetLevel>
   </component>
